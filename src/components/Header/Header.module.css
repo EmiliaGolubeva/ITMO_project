@@ -1,0 +1,77 @@
+.Nav.Link {
+    font-size: 16px;
+    font-weight: 700;
+}
+.header{
+    background: white;
+    height: 300px;
+}
+
+.head {
+    height: 30px;
+    background: linear-gradient(90deg, #3951E7 20.77%, #832AB9 91.64%);
+}
+
+.container{
+    max-width: 1200px;
+}
+
+.lang {
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    justify-content: right;
+    float: right;
+
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: 700;
+    position: relative;
+    /*width: 28%;*/
+}
+
+.section{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+.nav {
+    font-size: 16px;
+    font-weight: 400;
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    position: relative;
+    /*width: 69%;*/
+    float: right;
+}
+
+.nav > li {
+    margin-left: 47px;
+    margin-right: 47px;
+}
+
+.nav > li > a {
+    text-decoration: none;
+    color: #222222;
+}
+
+.banner{
+    color: black;
+    /*background-image: url("/back.png/");*/
+    display: flex;
+}
+.start{
+    font-size: 56px;
+    font-weight: 700;
+    position: fixed;
+}
+
+.text {
+    font-size: 18px;
+    font-weight: 600;
+    position: fixed;
+}
